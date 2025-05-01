@@ -27,8 +27,6 @@ Features
 
 ## Installation
 1. From Chrome Web Store (Recommended)**
-Install the extension directly from the Chrome Web Store:
-    [**Link to be added here after publication**]
 2. Manual Installation 
 * Download or clone this repository.
 * Open Chrome/Brave and navigate to `chrome://extensions/` or `brave://extensions/`.
@@ -47,6 +45,5 @@ Privacy
 This extension respects your privacy.
 * It only contacts `api.ipify.org` when you click the icon to fetch your IP for display.
 * It does **not** collect, store, or share any user data.
-* You can view the full [Privacy Policy](link-to-your-hosted-privacy.html) here. *(<- Add the link to your privacy.html file here)*
 Author
 * Developed by @laycanazo
