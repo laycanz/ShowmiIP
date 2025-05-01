@@ -10,13 +10,10 @@ This extension is built using Manifest V3 and standard WebExtension APIs.
     * Opera
     * Vivaldi
     * Other browsers based on Chromium that support Manifest V3 extensions.
-* **Not Tested / May Require Changes:**
-    * Mozilla Firefox (While based on WebExtensions, specific APIs or Manifest V3 implementation might differ. Not packaged or tested for the Firefox Add-ons store.)
+    * Mozilla Firefox 
     * Safari (Requires conversion via Xcode and uses a different distribution model.)
 
-Preview
 ![image](https://github.com/user-attachments/assets/3c70ac8e-3055-4b4e-857c-1f0a8c0ff08a)
-
 
 Why?
 Tired of opening a new tab, searching for "what's my IP", and landing on websites filled with ads and trackers just to see your public IP? This extension solves that. It gives you your IP instantly in a clean popup with zero distractions.
